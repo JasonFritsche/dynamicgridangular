@@ -1,0 +1,14 @@
+<div class="card-container">
+  <div class="cards-header">
+    <mat-form-field>
+      <mat-label>Columns</mat-label>
+      <input matInput type="number" min="1" max="5" [(ngModel)]="columns" />
+    </mat-form-field>
+  </div>
+  <div class="cards-grid" [ngStyle]="getStyles()">
+    <app-card
+      *ngFor="let band of bands; index as i"
+      [bandData]="bands[i]"
+    ></app-card>
+  </div>
+</div>

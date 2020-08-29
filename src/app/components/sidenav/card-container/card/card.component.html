@@ -1,0 +1,13 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title>{{ bandData["band"] }}</mat-card-title>
+    <mat-card-subtitle>Band</mat-card-subtitle>
+  </mat-card-header>
+  <mat-card-content>
+    <ul>
+      <li>Year Started: {{ bandData["since"] }}</li>
+      <li>Country: {{ bandData["country"] }}</li>
+      <li>{{ bandData["isActive"] === true ? "Active" : "Inactive" }}</li>
+    </ul>
+  </mat-card-content>
+</mat-card>

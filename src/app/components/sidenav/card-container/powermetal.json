@@ -1,0 +1,62 @@
+[
+  {
+    "band": "Helloween",
+    "since": "1984",
+    "country": "Germany",
+    "isActive": true
+  },
+  {
+    "band": "Stratovarius",
+    "since": "1984",
+    "country": "Finland",
+    "isActive": true
+  },
+  {
+    "band": "Blind Guardian",
+    "since": "1984",
+    "country": "Germany",
+    "isActive": true
+  },
+  {
+    "band": "Sabaton",
+    "since": "1999",
+    "country": "Sweden",
+    "isActive": true
+  },
+  {
+    "band": "Sonata Arctica",
+    "since": "1995",
+    "country": "Finland",
+    "isActive": true
+  },
+  {
+    "band": "Dragonland",
+    "since": "1999",
+    "country": "Sweden",
+    "isActive": true
+  },
+  {
+    "band": "Avantasia",
+    "since": "1999",
+    "country": "Germany",
+    "isActive": true
+  },
+  {
+    "band": "Iced Earth",
+    "since": "1988",
+    "country": "United States",
+    "isActive": true
+  },
+  {
+    "band": "Falconer",
+    "since": "1999",
+    "country": "Sweden",
+    "isActive": false
+  },
+  {
+    "band": "Power Quest",
+    "since": "2001",
+    "country": "United Kingdom",
+    "isActive": true
+  }
+]
