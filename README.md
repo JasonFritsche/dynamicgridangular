@@ -1,5 +1,11 @@
 # DynamicGrid
 
+This is a small project that shows how you can use ngStyle to dynamically change the number of columns in a grid. 
+
+
+#Angular CLI Generated Readme stuff
+------------------------------------------------------------------
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## Development server
